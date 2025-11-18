@@ -1,0 +1,14 @@
+# Node / Backend
+Backend/node_modules/
+Backend/.env
+Backend/.vscode/
+
+# React / Frontend
+Frontend/node_modules/
+Frontend/build/
+Frontend/.env
+Frontend/.vscode/
+
+# System
+.DS_Store
+Thumbs.db
