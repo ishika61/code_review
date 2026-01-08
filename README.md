@@ -17,11 +17,6 @@ The project is built with **React (Vite)** for the frontend and **Node.js + Expr
 
 ---
 
-## 🎥 Demo & Flow
-
-**Video Timeline**
-- `00:00 – 01:05` → Introduction  
-- User Flow & Preview  
 
 **User Flow**
 1. User enters source code in the editor
